@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Менеджер комунальних послуг Pro</string>
+    <string name="households">Домогосподарства</string>
+    <string name="meters">Лічильники</string>
+    <string name="readings">Показання</string>
+    <string name="payments">Платежі</string>
+    <string name="settings">Налаштування</string>
+    <string name="add_household">Додати домогосподарство</string>
+    <string name="edit_household">Редагувати домогосподарство</string>
+    <string name="delete_household">Видалити домогосподарство</string>
+    <string name="household_name">Назва домогосподарства</string>
+    <string name="address">Адреса</string>
+    <string name="ownership_type">Тип власності</string>
+    <string name="owned">Власна</string>
+    <string name="rented">Орендована</string>
+    <string name="rent_cost">Вартість оренди</string>
+    <string name="maintenance_fee">Плата за утримання (Щомісячно)</string>
+    <string name="balance">Залишок</string>
+    <string name="add_meter">Додати лічильник</string>
+    <string name="edit_meter">Редагувати лічильник</string>
+    <string name="delete_meter">Видалити лічильник</string>
+    <string name="meter_name">Назва лічильника</string>
+    <string name="meter_type">Тип лічильника</string>
+    <string name="electricity">Електроенергія</string>
+    <string name="water">Вода</string>
+    <string name="gas">Газ</string>
+    <string name="heating">Опалення</string>
+    <string name="location">Розташування</string>
+    <string name="meter_reading">Показання лічильника</string>
+    <string name="current_reading">Поточне показання</string>
+    <string name="previous_reading">Попереднє показання</string>
+    <string name="consumption">Споживання</string>
+    <string name="cost">Вартість</string>
+    <string name="amount_paid">Сума сплачена</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Скасувати</string>
+    <string name="delete">Видалити</string>
+    <string name="error">Помилка</string>
+    <string name="loading">Завантаження...</string>
+    <string name="no_data">Немає доступних даних</string>
+    <string name="language">Мова</string>
+    <string name="english">English</string>
+    <string name="ukrainian">Українська</string>
+</resources>

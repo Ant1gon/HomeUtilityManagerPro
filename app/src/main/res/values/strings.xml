@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home Utility Manager Pro</string>
+    <string name="households">Households</string>
+    <string name="meters">Meters</string>
+    <string name="readings">Readings</string>
+    <string name="payments">Payments</string>
+    <string name="settings">Settings</string>
+    <string name="add_household">Add Household</string>
+    <string name="edit_household">Edit Household</string>
+    <string name="delete_household">Delete Household</string>
+    <string name="household_name">Household Name</string>
+    <string name="address">Address</string>
+    <string name="ownership_type">Ownership Type</string>
+    <string name="owned">Owned</string>
+    <string name="rented">Rented</string>
+    <string name="rent_cost">Rent Cost</string>
+    <string name="maintenance_fee">Maintenance Fee (Monthly)</string>
+    <string name="balance">Balance</string>
+    <string name="add_meter">Add Meter</string>
+    <string name="edit_meter">Edit Meter</string>
+    <string name="delete_meter">Delete Meter</string>
+    <string name="meter_name">Meter Name</string>
+    <string name="meter_type">Meter Type</string>
+    <string name="electricity">Electricity</string>
+    <string name="water">Water</string>
+    <string name="gas">Gas</string>
+    <string name="heating">Heating</string>
+    <string name="location">Location</string>
+    <string name="meter_reading">Meter Reading</string>
+    <string name="current_reading">Current Reading</string>
+    <string name="previous_reading">Previous Reading</string>
+    <string name="consumption">Consumption</string>
+    <string name="cost">Cost</string>
+    <string name="amount_paid">Amount Paid</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading...</string>
+    <string name="no_data">No data available</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="ukrainian">Українська</string>
+</resources>
