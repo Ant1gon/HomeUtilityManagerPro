@@ -42,4 +42,15 @@
     <string name="language">Language</string>
     <string name="english">English</string>
     <string name="ukrainian">Українська</string>
+    <string name="tariffs">Tariffs</string>
+    <string name="add_tariff">Add Tariff</string>
+    <string name="tariff_history">Tariff History</string>
+    <string name="base_price">Base Price</string>
+    <string name="tiered_pricing">Tiered Pricing</string>
+    <string name="threshold">Threshold</string>
+    <string name="tiered_price">Tiered Price</string>
+    <string name="effective_date">Effective Date</string>
+    <string name="current">Current</string>
+    <string name="version">Version</string>
+    <string name="active">Active</string>
 </resources>

@@ -42,4 +42,15 @@
     <string name="language">Мова</string>
     <string name="english">English</string>
     <string name="ukrainian">Українська</string>
+    <string name="tariffs">Тарифи</string>
+    <string name="add_tariff">Додати тариф</string>
+    <string name="tariff_history">Історія тарифів</string>
+    <string name="base_price">Базова ціна</string>
+    <string name="tiered_pricing">Багатоступінчастий тариф</string>
+    <string name="threshold">Поріг</string>
+    <string name="tiered_price">Ціна за перевищення</string>
+    <string name="effective_date">Дата вступу в силу</string>
+    <string name="current">Поточний</string>
+    <string name="version">Версія</string>
+    <string name="active">Активний</string>
 </resources>
